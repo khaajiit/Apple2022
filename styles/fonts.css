@@ -6,19 +6,19 @@
 }
 @font-face {
     font-family: 'SF UI Display';
-    src: url('../fonts/SFUIDisplay-Regular.woff2') format('woff2'),
-    url('../fonts/SFUIDisplay-Regular.woff') format('woff2');
+    src: url('../fonts/SFUIDisplay-Thin.woff2') format('woff2'),
+    url('../fonts/SFUIDisplay-Thin.woff') format('woff2');
     font-weight: 200;
 }
 @font-face {
     font-family: 'SF UI Display';
-    src: url('../fonts/SFUIDisplay-Regular.woff2') format('woff2'),
-    url('../fonts/SFUIDisplay-Regular.woff') format('woff2');
+    src: url('../fonts/SFUIDisplay-Light.woff2') format('woff2'),
+    url('../fonts/SFUIDisplay-Light.woff') format('woff2');
     font-weight: 300;
 }
 @font-face {
     font-family: 'SF UI Display';
-    src: url('../fonts/SFUIDisplay-Regular.woff2') format('woff2'),
-    url('../fonts/SFUIDisplay-Regular.woff') format('woff2');
+    src: url('../fonts/SFUIDisplay-Semibold.woff2') format('woff2'),
+    url('../fonts/SFUIDisplay-Semibold.woff') format('woff2');
     font-weight: 600;
 }
