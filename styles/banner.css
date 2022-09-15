@@ -59,15 +59,31 @@
         font-size: 20px;
         margin-bottom: 8px;
     }
+
     .banner__subtitle {
         font-size: 40px;
         margin-bottom: 40px;
     }
+
     .banner__timer {
         margin-bottom: 56px;
     }
+
     .banner__button {
         font-size: 16px;
+        transition-property: background-color, color;
+        transition-duration: 0.1s;
+        transition-timing-function: ease-in-out;
+    }
+
+    .banner__button:hover,
+    .banner__button:focus {
+        background-color: #fff;
+    }
+
+    .banner__button:active {
+        background-color: #2238FF;
+        color: #fff;
     }
 }
 
