@@ -47,6 +47,7 @@
 
 @media (min-width: 1024px) {
     .banner {
+        margin-bottom: 70px;
         padding: 120px 0 160px;
         background-image: url('../img/bg-lap.jpg');
     }
